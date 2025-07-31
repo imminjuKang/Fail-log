@@ -4,3 +4,5 @@
 
 1. BlitzCTF
 2. L3akCTF
+3. ToHCTF
+4. ShaktiCTF
