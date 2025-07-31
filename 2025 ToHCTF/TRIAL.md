@@ -1,2 +1,2 @@
-# 2025 ToHCTF Write-up
+# 2025 ToHCTF Write-Up
 
