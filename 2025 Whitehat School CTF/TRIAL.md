@@ -19,10 +19,17 @@
 
 - urlparse() attribute: scheme(='https'), netloc(='www.'), path, params, query, fragment, username, password, hostname(hostname 혹은 ""), port
 - root_domain의 길이를 return
-- 같은 url에 접속하는데 hostname을 다르게 설정하는 방법 .. ?
+- 같은 url에 접속하는데 hostname을 다르게 설정하는 방법
 
 
-<punycode 활용>
+**punycode 활용**
+
+punycode : 유니코드 문자를 ASCII 문자만 사용하는 형태로 변환하는 인코딩 방식
+
+www.도메인.com 이라는 사이트를 퓨니코드로 변환하면 www.xn--hq1bm8jm9l.com 과 같이 변환된다
+
+따라서 hostname의 길이가 달라진다.
+
 
 ---
 
