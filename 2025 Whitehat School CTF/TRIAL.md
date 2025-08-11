@@ -46,5 +46,12 @@
 
 
   ### Flagipia!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/000b5bdf-c3a0-44c7-a1b1-75695b1c20a6" width="45%" style="margin-right:10px;"/>
+  <img src="https://github.com/user-attachments/assets/ee7319cc-b047-4de0-8ff2-cbcd7aad99f1" width="45%"/>
+</p>
 
+- 송금은 가능하지만, initial balance인 100을 넘으면 자동으로 100으로 다시 초기화
+- flag는 200이 필요하기 때문에 다른 계정에서 송금한 100이 initial balance 값으로 초기화되기 전에 flag를 구매해야함
+- 멀티스레딩 문제로 
   
