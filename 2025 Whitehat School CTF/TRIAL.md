@@ -11,12 +11,6 @@
 - flag 도출 방법 : initial_host_length와 final_host_length가 다르면 flag 출력
 - url 입력 -> 해당 url host length 계산 -> url 방문 후 final_url 생성 -> final_url의 host length 계산
 
-
-
-<puny code 활용>
-
-  
-
   
 <p align="center">
   <img src="https://github.com/user-attachments/assets/69cc54b2-4a7c-4bb9-a547-ec1aac0b1d76" width="45%" style="margin-right:10px;"/>
@@ -27,6 +21,8 @@
 - root_domain의 길이를 return
 - 같은 url에 접속하는데 hostname을 다르게 설정하는 방법 .. ?
 
+
+<punycode 활용>
 
 ---
 
