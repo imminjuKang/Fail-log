@@ -20,3 +20,10 @@
 </p>
 
 - flag 찾는 방법 : admin 관리자 권한으로 로그인 필요
+
+<p align="center">
+  <img width="1065" height="523" alt="image" src="https://github.com/user-attachments/assets/e0e6b6b8-e7ce-414a-a34f-db247ebf4949" />
+</p>
+
+- 인증 토큰 활용하기
+- HttpOnly; Path=/ : 
