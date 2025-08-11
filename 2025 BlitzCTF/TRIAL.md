@@ -1,4 +1,4 @@
-# 2025 BlitzCTF Write-Up
+# 2025 BlitzCTF 시도 내용
 
 ✏️ 4문제 풀이 시도
 
