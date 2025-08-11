@@ -12,7 +12,8 @@
 - url 입력 -> 해당 url host length 계산 -> url 방문 후 final_url 생성 -> final_url의 host length 계산
 
 
-> punycode 활용
+
+<puny code 활용>
 
   
 
