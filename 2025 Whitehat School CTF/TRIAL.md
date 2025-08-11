@@ -21,7 +21,9 @@
 - root_domain의 길이를 return
 - 같은 url에 접속하는데 hostname을 다르게 설정하는 방법 .. ?
 
+
 ---
+
 
 ### Flashum
 
