@@ -8,7 +8,8 @@
 </p>
 
 - os.environ : 파이썬 코드에서 접근할 수 있는 환경변수 이름과 값이 딕셔너리 형태로 저장 (Flag가 저장되어 있는 방식)
-- flag 도출 방법 : 
+- flag 도출 방법 : initial_host_length와 final_host_length가 다르면 flag 출력
+- url 입력 -> 해당 url host length 계산 -> url 방문 후 final_url 생성 -> final_url의 host length 계산
 
 
 ---
