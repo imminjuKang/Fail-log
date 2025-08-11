@@ -11,7 +11,8 @@
 - flag 도출 방법 : initial_host_length와 final_host_length가 다르면 flag 출력
 - url 입력 -> 해당 url host length 계산 -> url 방문 후 final_url 생성 -> final_url의 host length 계산
 
-  > punycode 활용
+
+> punycode 활용
 
   
 
