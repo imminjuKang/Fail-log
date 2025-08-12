@@ -1,5 +1,7 @@
 # Web 문제 풀이 과정
 
+> 웹 문제만 풀이
+
 ## Ascii? Unicode?
 
 <p align="center">
@@ -54,7 +56,7 @@ www.도메인.com 이라는 사이트를 퓨니코드로 변환하면 www.xn--hq
   ---
 
 
-  ## Flagipia!
+## Flagipia!
 <p align="center">
   <img src="https://github.com/user-attachments/assets/000b5bdf-c3a0-44c7-a1b1-75695b1c20a6" width="45%" style="margin-right:10px;"/>
   <img src="https://github.com/user-attachments/assets/ee7319cc-b047-4de0-8ff2-cbcd7aad99f1" width="45%"/>
@@ -68,5 +70,5 @@ www.도메인.com 이라는 사이트를 퓨니코드로 변환하면 www.xn--hq
   ---
 
 
-  ### BOOOOOM
+## BOOOOOM
   
