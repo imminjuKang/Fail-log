@@ -74,7 +74,8 @@ www.도메인.com 이라는 사이트를 퓨니코드로 변환하면 www.xn--hq
 ## BOOOOOM
 
 <p align="center">
-  <img width="1087" height="431" alt="image" src="https://github.com/user-attachments/assets/972d0c7f-08fb-4fe9-962f-2e3e6e28b6c7" />
+  <img src="https://github.com/user-attachments/assets/a17abd89-0906-4d8b-a858-84a63c2c8063" width="45%" style="margin-right:10px;"/>
+  <img src="https://github.com/user-attachments/assets/69134cb3-628f-4c85-92e3-9af755396f4a" width="45%"/>
 </p>
 
-- 파일명을 활용해 flag 도출 시도
+- 파일명을 활용해 flag 도출 시도 : flag.tar.gz 파일을 제작해 upload 시도 -> 500번대 에러(internal server error) 발생
