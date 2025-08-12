@@ -43,14 +43,14 @@ www.도메인.com 이라는 사이트를 퓨니코드로 변환하면 www.xn--hq
   <img src="https://github.com/user-attachments/assets/d9d90496-60f2-4586-89f4-530c451b32d7" width="45%"/>
 </p>
 
-- flag 찾는 방법 : admin 관리자 권한으로 로그인 필요
+- flag 찾는 방법 : admin 관리자 권한으로 로그인 필요, 이때 user_id 확인하고 db에서 username 찾은 다음 그 username이 admin이면 flag 획득 가능
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e0e6b6b8-e7ce-414a-a34f-db247ebf4949" width="45%" style="margin-right:10px;"/>
   <img src="https://github.com/user-attachments/assets/c092aa3c-27c1-491a-8828-8ea18fc1ae5b" width="45%"/>
 </p>
 
-- 인증 토큰 활용하기 : user_id를 1로 바꾸고, username을 admin으로 수정해서 admin 권한 획득 시도
+- 인증 토큰 활용하기 : user_id를 1로 바꾸고, username을 admin으로 수정해서 flag 출력 시도
 
 
   ---
