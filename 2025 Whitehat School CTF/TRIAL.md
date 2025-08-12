@@ -78,4 +78,4 @@ www.도메인.com 이라는 사이트를 퓨니코드로 변환하면 www.xn--hq
   <img src="https://github.com/user-attachments/assets/30f0e25c-f2e5-46a0-b469-024ffe11d3db" width="45%"/>
 </p>
 
-- 파일명을 활용해 flag 도출 시도 : flag.gz 파일을 제작해 upload 시도
+- 파일명을 활용해 flag 도출 시도 : flag.gz 파일을 제작해 upload 시도 -> 400번 에러 (Bad request) 발생
