@@ -1,6 +1,14 @@
 # Web 문제 풀이 과정
 
-> 웹 문제만 풀이
+✏️
+
+📌 Ascii? Unicode? : url 인코딩
+
+📌 Flashum : 인증 토큰 우회 (itsdangerous-flask 토큰)
+
+📌 Flagipia! : 멀티스레딩
+
+📌 BOOOOOM : 파일 업로드
 
 ## Ascii? Unicode?
 
