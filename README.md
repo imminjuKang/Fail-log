@@ -1,4 +1,4 @@
-# Fail-log
+# CTF-fail-log
 
 참가한 CTF들에 대한 기록
 
